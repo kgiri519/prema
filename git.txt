@@ -1,1 +1,6 @@
 git clone https://github.com
+git config --list
+git status
+ls
+git remote add origin http://github.com/kgiri519/prema.git
+git push -u origin master
